@@ -1,3 +1,4 @@
 ADM
 - Belajar tentang Github
 - Dapat memakai Github
+- Belajar Ulang yang telah dipelajari
